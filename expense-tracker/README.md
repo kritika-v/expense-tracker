@@ -1,3 +1,15 @@
+# Expense Tracker
+
+A web-based Expense Tracker application built using React, allowing users to manage their daily expenses efficiently. The application features the ability to add, edit, and delete expenses with data persistence using local storage. It also includes a total expense calculator to provide real-time financial insights.
+
+## Features
+
+- **Add Expense**: Users can add new expenses with details such as amount, date, and description.
+- **Edit Expense**: Users can modify the details of existing expenses.
+- **Delete Expense**: Users can remove expenses from the list.
+- **Total Expense Calculator**: Displays the total amount spent in real-time.
+- **Local Storage**: Data is persisted using local storage, ensuring that expenses are not lost on page reloads.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
